@@ -11,7 +11,6 @@ public class Main {
 
 
         System.out.println(user.getPlayerName());
-
         System.out.println(com.getPlayerName());
     }
 }
