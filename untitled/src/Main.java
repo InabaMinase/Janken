@@ -14,8 +14,6 @@ public class Main {
         System.out.println("3.パー");
         System.out.println("あなたの手を選択してください。>");
 
-
-
         //ユーザ入力
         String input = null;
         try {
