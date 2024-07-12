@@ -11,7 +11,6 @@ public class Player {
     public void setPlayerName(String playerName) {
         this.playerName = playerName;
     }
-
     public Hand getHand() {
         return this.hand;
     }
