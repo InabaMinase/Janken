@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 
 
-public class testcode {
+public class TestCode {
 
 
 
@@ -53,3 +53,4 @@ public class testcode {
     }
 
 }
+
